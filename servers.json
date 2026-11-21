@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "anisette-v3",
+      "address": "https://anisette-v3-avwv.onrender.com"
+    }
+  ]
+}
