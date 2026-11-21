@@ -1,0 +1,1 @@
+# sidestore-anisette-list
